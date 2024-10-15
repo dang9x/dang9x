@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋<br>
+```
+  _   _    _    ___ ____    _    _   _  ____
+ | | | |  / \  |_ _|  _ \  / \  | \ | |/ ___|
+ | |_| | / _ \  | || | | |/ _ \ |  \| | |  _
+ |  _  |/ ___ \ | || |_| / ___ \| |\  | |_| |
+ |_| |_/_/   \_\___|____/_/   \_\_| \_|\____|
 
+```
 <!--
 **dang9x/dang9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
