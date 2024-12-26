@@ -1,5 +1,4 @@
 ## Hi there 👋<br>
-<span style="color: red;">
 ```
   _   _    _    ___ ____    _    _   _  ____
  | | | |  / \  |_ _|  _ \  / \  | \ | |/ ___|
@@ -8,7 +7,6 @@
  |_| |_/_/   \_\___|____/_/   \_\_| \_|\____|
 
 ```
-</span>
 <!--
 **dang9x/dang9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
